@@ -1,0 +1,6 @@
+VCD info: dumpfile testlog.vcd opened for output.
+elf-loader: /home/anuraag/or1k/hello.elf was loaded
+Loading        9931 words
+forcing to x
+                   0 : Illegal Wishbone B3 cycle type (xxx)
+Hello world, from an OpenRISC system!
